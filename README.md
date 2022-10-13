@@ -112,4 +112,4 @@ If you are interested in contributing to the project you can `fork` the reposito
 Comments, suggestions, questions? Contact the project developers:
 #### [Rafael Abreu](https://github.com/rfabreu) | [Arslan Tahir](https://github.com/tahir-arslan) | [Leonel Pinzon](https://github.com/Leman102) | [Vadad Rzali](https://github.com/vrzali)
 
-Link to deployed application: [Use the Weather App!](https://second-chance-e-commerce.herokuapp.com/)
+Link to deployed application: [Come shop at Second Chance!](https://second-chance-e-commerce.herokuapp.com/)
